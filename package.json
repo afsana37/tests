@@ -1,0 +1,14 @@
+{
+  "name": "jest-practice-project",
+  "version": "1.0.0",
+  "description": "A project for practicing Jest testing",
+  "scripts": {
+    "test": "jest tests"
+  },
+  "keywords": ["jest", "testing", "practice"],
+  "author": "Abida",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^27.4.5"
+  }
+}
